@@ -1,0 +1,11 @@
+name: FBlockHunt
+main: FBlockHunt\Main
+version: 1.0.0
+api: [1.0.0]
+load: POSTWORLD
+author: FENGberd
+commands:
+ fbh:
+  description: "FBlockHunt主命令"
+  usage: "/fbh join"
+#  permission: true
